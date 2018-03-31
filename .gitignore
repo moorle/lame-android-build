@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CMake template
+cmake-build-debug/
+scratch-lame/
+thin-lame/
+toolchains/
+lame/
+.idea/
